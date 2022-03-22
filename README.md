@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
-<h3 align="center">A passionate Data Analyst and developer from Colombia</h3>
+
 
 
 - 📫 How to reach me **camilocorreabarrera@gmail.com**
