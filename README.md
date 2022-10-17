@@ -1,2 +1,2 @@
 <h1 align="center">Hi 👋, I'm Cris</h1>
-<h3 align="center">Student of Statistics and Systems Engineering :)</h3>
+<h3 align="center"> Statistician and Systems Engineer in progress. 🚧 </h3>
