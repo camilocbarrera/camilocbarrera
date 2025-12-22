@@ -16,4 +16,4 @@ I’m Cris, a Statistician turned data and software engineer, passionate about d
 You should also meet [Tomas](https://github.com/tomascalletce), [Railly](https://github.com/railly) and [Anthonty](https://github.com/cuevaio)
 
 > [!note]
-> Visit my site [cris.fast](cris.fast)
+> Visit my site [cris.fast](https://www.cris.fast/)
