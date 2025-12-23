@@ -13,7 +13,7 @@ I’m Cris, a Statistician turned data and software engineer, passionate about d
 - Currently building [curl.fast](https://curl.fast/)￼, a Data Enablement company powering teams to move faster
 
 
-You should also meet [Tomas](https://github.com/tomascalletce), [Railly](https://github.com/railly) and [Anthonty](https://github.com/cuevaio)
+You should also meet [Tomas](https://github.com/tomascalletce), [Railly](https://github.com/railly) and [Anthony](https://github.com/cuevaio)
 
 > [!note]
 > Visit my site [cris.fast](https://www.cris.fast/)
